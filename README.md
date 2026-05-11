@@ -8,7 +8,7 @@ Backend developer in progress. Building real things, breaking them, fixing them.
 - **Currently building:** Projects that actually solve problems
 
 ## Projects
-- **[Melo](https://rootnikhil.github.io/melo/)** — Retro browser music player. Vanilla JS, no frameworks.
+- **[Melo](https://rootnikhil.github.io/melo/)** — Browser music player. Vanilla JS, no frameworks.
 
 ## Connect
 - GitHub: you're already here
